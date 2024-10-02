@@ -1,0 +1,6 @@
+console.log ("luc bruggeman");
+console.print()
+console.warning ("16 ")
+console.print()
+console.error ("keizer") 
+console.print ()
